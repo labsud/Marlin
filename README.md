@@ -2,6 +2,9 @@
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
 
+La configuration pour l'imprimante 3DMS LABSud se trouve dans la branche [RC8-3DMS-LABSUD] (https://github.com/labsud/Marlin/tree/RC8-3DMS-LABSUD)
+
+
 Additional documentation can be found at [The Marlin Documentation Project](http://www.marlinfw.org/).
 Please test this firmware and inform us if it misbehaves in any way, volunteers are standing by!
 
